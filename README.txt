@@ -7,5 +7,5 @@ Inverted Double Pendulum On a Cart (IDPC)
     The other one is IDPC controlled by DDP controller: idp_ddp.gif
 4. Best results (MPPI and DDP) we tested so far are below:
 
-\[](https://github.com/relifeto18/ROB-498/blob/main/idp_mppi.gif)
-\[](https://github.com/relifeto18/ROB-498/blob/main/idp_ddp.gif)
+![](https://github.com/relifeto18/ROB-498/blob/main/idp_mppi.gif)
+![](https://github.com/relifeto18/ROB-498/blob/main/idp_ddp.gif)
